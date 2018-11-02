@@ -25,4 +25,4 @@ function currentLine (line) {
   }
   return "The line is currently: " + num.join(', ');
 }
-// Here we are adding numbers '1., 2., 3.,' to our function assuming there is someone(s) waiting in currentLine.
+// Here we are adding numbers '1., 2., 3.,' to our function assuming there is someone(s) waiting in currentLine.  Both
